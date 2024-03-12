@@ -11,7 +11,7 @@ body{
 #header{
     width: 95%;
     height: 109vh;
-    background-image: IMG_3518.jpg
+    background-image: url(https://github.com/thegreatsourav/Portfolio-website/blob/93d8acdcc15bd5e632829c3a01c91ccb24ff6f54/IMG_3518.jpg);
     background-size: cover;
     background-position: center;
 }
